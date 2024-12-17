@@ -15,7 +15,7 @@ import Dashboard, { dashboardAction, dashboardLoader } from "./pages/Dashboard";
 import Error from "./pages/Error";
 import ExpensesPage, {
   expensesAction,
-  expensesLoader, 
+  expensesLoader,
 } from "./pages/ExpensesPage";
 
 const router = createBrowserRouter([
